@@ -1,0 +1,1 @@
+Há uma alta taxa de cancelamento em uma empresa de assinatura, a missão é encontrar possíveis causas que levam os clientes a cancelarem os serviços. Junto a isso trazer soluções para diminuir a taxa de cancelamento, por isso é necessário uma análise profunda no banco de dados disponibilizado.
